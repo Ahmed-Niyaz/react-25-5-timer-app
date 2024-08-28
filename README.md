@@ -29,7 +29,7 @@ Follow these steps to set up and run the project locally.
 
   ```bash
    git clone https://github.com/Ahmed-Niyaz/react-25-5-timer-app.git
-   cd drum-machine
+   cd react-25-5-timer-app
    ```
    
 2. **Install Dependencies**
