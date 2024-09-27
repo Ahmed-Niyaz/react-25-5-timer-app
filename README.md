@@ -1,6 +1,6 @@
 # Drum Machine App
 
-This project is a timer application that allows users to start, stop, and reset a timer. The app is built with React.
+This is a timer application that allows users to start, stop, and reset a timer. The app is built with React.
 
 ## Demo
 
